@@ -1,0 +1,11 @@
+title: Polygon
+remote_theme: b2a3e8/jekyll-theme-console
+header_pages:
+  - index.md
+
+style: dark # dark (default), light or hacker
+listen_for_clients_preferred_style: true # false (default) or true
+
+footer: '© 2022 Polygon Transit'
+
+google_analytics: G-B0LL0TDDCB
