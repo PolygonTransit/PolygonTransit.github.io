@@ -6,6 +6,7 @@ header_pages:
   - index.md
   - fonts.md
   - links.md
+  - videos.md
 
 style: dark # dark (default), light or hacker
 listen_for_clients_preferred_style: true # false (default) or true
