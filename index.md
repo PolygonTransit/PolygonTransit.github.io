@@ -1,5 +1,7 @@
 # Hello World
 
-Hello there! I’m Polygon! I (somehow) find pleasure in filming trains around Australia (Mainly in Victoria) and breaking 20 year old operating systems. I also occasionally play around with Python and Lua.
+'Ello 'ello there! I'm Polygon. I enjoy filming trains and planes, playing flight sims and making dumb stuff with my (very limited) programming skills.
 
-Contact me here (polygontransit@proton.me)
+PhD in not touching grass - University of Reddit
+
+Contact me via [email - polygontransit@proton.me](mailto://polygontransit@proton.me) or on my [Discord](https://discord.gg/vqMePZUBT4)
