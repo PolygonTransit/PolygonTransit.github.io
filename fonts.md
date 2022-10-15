@@ -21,3 +21,5 @@ Use .ttf/.otf for installing to your computer, and .woff2 for use on websites.
 [Mirror 1: Proton](https://drive.proton.me/urls/ZF9GR8AKYW#KuB48oqGRT3e)
 ### Keno - True North
 [Mirror 1: Proton](https://drive.proton.me/urls/1A9H6P4RQR#6evqlRp4HHpb)
+### Woolworths - Fresh Sans
+[Mirror 1: Proton](https://drive.proton.me/urls/8PPAF0ZAVC#4sLb4CpuqD96)
