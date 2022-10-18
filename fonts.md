@@ -23,3 +23,5 @@ Use .ttf/.otf for installing to your computer, and .woff2 for use on websites.
 [Mirror 1: Proton](https://drive.proton.me/urls/1A9H6P4RQR#6evqlRp4HHpb)
 ### Woolworths - Fresh Sans
 [Mirror 1: Proton](https://drive.proton.me/urls/8PPAF0ZAVC#4sLb4CpuqD96)
+### AFLW - All fonts from website
+[Mirror 1: Proton](https://drive.proton.me/urls/MCBVAK78W0#Jn9C7sRFOIsa)
