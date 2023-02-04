@@ -1,5 +1,4 @@
 # Fonts
-*Google Drive mirrors coming soon*
 Use .ttf/.otf for installing to your computer, and .woff2 for use on websites.
 
 ## Aviation
