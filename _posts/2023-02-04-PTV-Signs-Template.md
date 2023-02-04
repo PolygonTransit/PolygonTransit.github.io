@@ -11,3 +11,5 @@ If you ever want to make a PTV station sign, this blog post should make your exp
 [Network Sans](https://drive.proton.me/urls/387VS0TARG#OvRpJJrD4O5J) - (C) Public Transport Victoria
 
 If you require a free download of Helvetica Neue, this link should work [https://www.cufonfonts.com/font/helvetica-neue-lt-std-6](https://www.cufonfonts.com/font/helvetica-neue-lt-std-6). **Legal Disclaimer** If possible, please buy Helvetica Neue from Linotype (The font owners) [https://www.linotype.com/1266/neue-helvetica-family.html](https://www.linotype.com/1266/neue-helvetica-family.html)
+
+Theres also a few powerpoint templates on [City Gunzals Community Server](https://discord.gg/xvcaZZsMKr) in [#chickens-graphics-store](https://discord.com/channels/893408043356811326/931814966519013386)
