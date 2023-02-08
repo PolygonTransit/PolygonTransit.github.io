@@ -13,3 +13,7 @@ Please boycott 8 News, Lunie Vids and any other of his channels. ~~Lets be hones
 Message for McMaster: The Victorian Railway community all want you to fuck off the internet and go get a life.
 PS: A rebrand wont remove your reputation as a perv.
 PPS: There is no point censoring this site. It has been seen, screenshotted and archived on the Internet Archive.
+
+### **Messages from other members of the community**
+The majority of us don’t accept him as part of the Victorian railway community, we want to distant ourselves as far as possible from this person - Budgie
+I support the vic transport youtube channel as much as i support fair renting laws (i have 728 negatively geared properties) - Zac
