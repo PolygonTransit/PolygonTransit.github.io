@@ -15,6 +15,8 @@ PS: A rebrand wont remove your reputation as a perv.
 PPS: There is no point censoring this site. It has been seen, screenshotted and archived on the Internet Archive.
 
 ### **Messages from other members of the community**
+> This is absolutely disgusting, as a friend of someone who was obsessed over I am deeply disturbed - Anonymous
+
 > The majority of us don’t accept him as part of the Victorian railway community, we want to distant ourselves as far as possible from this person - Budgie
 
 > I support the vic transport youtube channel as much as i support fair renting laws (i have 728 negatively geared properties) - Zac
