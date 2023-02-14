@@ -2,9 +2,8 @@
 title: "Rohan McMaster"
 date: 2023-02-08
 ---
-*This blog post is also [here](https://sites.google.com/view/8newsvic/home?authuser=1)*
 
-*Updates will be sent here first*
+# ***Please note: This situation has been resolved. I have kept this post up for archival reasons only. Please do not harass Rohan.***
 
 The owner of Lunie Vids (formerly Victransport) and 8 News (Rohan McMaster) has been sexualising netball players (most under 13 years old) without consent. This is not okay. Some affected players have been contacted.
 
