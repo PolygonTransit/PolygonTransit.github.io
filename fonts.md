@@ -1,5 +1,5 @@
 # Fonts
-Use .ttf/.otf for installing to your computer, and .woff2 for use on websites.
+Use .ttf/.otf for installing to your computer, and .woff2 for use on websites. To request fonts DM me on Discord or email me
 
 ## Aviation
 ### Jetstar - JetstarHappy
